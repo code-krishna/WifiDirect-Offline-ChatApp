@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_settings_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/settings_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_alert_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/alert_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_plus_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/plus_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_settings_action_bar_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/settings_action_bar_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_settings_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/settings_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/menu_chat_pub_room_menu.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/menu/chat_pub_room_menu.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_alert_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/alert_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_plug_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/plug_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_public_chat_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/public_chat_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_key_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/key_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/xml_pref_notification.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/xml/pref_notification.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-ldpi_orange.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-ldpi/orange.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_green.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/green.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_alert_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/alert_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_green.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/green.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_lock_icon_red.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/lock_icon_red.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_private_chat_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/private_chat_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_lock_icon_green.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/lock_icon_green.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_hosted_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/hosted_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_hosted_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/hosted_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_msg_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/msg_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_settings_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/settings_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable_custom_button_normal.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable/custom_button_normal.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/menu_chat_prv_room_menu.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/menu/chat_prv_room_menu.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_lock_icon_green.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/lock_icon_green.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_orange.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/orange.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_activity_main_screen.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/activity_main_screen.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable_custom_button_selected.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable/custom_button_selected.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/menu_chat_activity_hosted_room_context_menu.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/menu/chat_activity_hosted_room_context_menu.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_alert_dialog_text_entry.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/alert_dialog_text_entry.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/menu_main_screen_menu.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/menu/main_screen_menu.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_activity_chat.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_msg_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/msg_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_key_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/key_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_lock_icon_red.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/lock_icon_red.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/menu_chat_history_frag_context_menu.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/menu/chat_history_frag_context_menu.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_lock_icon_red.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/lock_icon_red.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable_message_bar.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable/message_bar.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_plus_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/plus_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_speech_bubble_orange.9.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/speech_bubble_orange.9.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_lock_icon_orange.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/lock_icon_orange.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_show_settings_layout.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/show_settings_layout.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_speech_bubble_orange.9.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/speech_bubble_orange.9.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-ldpi_speech_bubble_green.9.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-ldpi/speech_bubble_green.9.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_plug_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/plug_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_settings_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/settings_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_lock_icon_orange.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/lock_icon_orange.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_activity_history.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/activity_history.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_msg_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/msg_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_plug_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/plug_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_lock_icon_orange.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/lock_icon_orange.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_public_chat_creation_dialog.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/public_chat_creation_dialog.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_speech_bubble_orange.9.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/speech_bubble_orange.9.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/xml_pref_headers.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/xml/pref_headers.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_orange.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/orange.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable_message_field.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable/message_field.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_activity_chat_search_screen_frag.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/activity_chat_search_screen_frag.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_lock_icon_orange.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/lock_icon_orange.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_settings_action_bar_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/settings_action_bar_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_public_chat_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/public_chat_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_lock_icon_green.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/lock_icon_green.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hosted_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/hosted_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_private_chat_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/private_chat_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_key_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/key_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_ignored_user_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/ignored_user_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ignored_user_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/ignored_user_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/xml_pref_general.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/xml/pref_general.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_alert_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/alert_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_plug_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/plug_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_private_chat_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/private_chat_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_plus_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/plus_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xxhdpi_public_chat_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xxhdpi/public_chat_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-ldpi_speech_bubble_orange.9.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-ldpi/speech_bubble_orange.9.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_settings_action_bar_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/settings_action_bar_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_ignored_user_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/ignored_user_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_hosted_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/hosted_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_private_chat_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/private_chat_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_activity_chat_history_screen_frag.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/activity_chat_history_screen_frag.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_lock_icon_red.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/lock_icon_red.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_speech_bubble_green.9.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/speech_bubble_green.9.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_public_chat_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/public_chat_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/menu_chat_search_frag_context_menu.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/menu/chat_search_frag_context_menu.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-xhdpi_speech_bubble_green.9.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-xhdpi/speech_bubble_green.9.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_chat_activity_list_item.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/chat_activity_list_item.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/layout_chat_search_list_item.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/layout/chat_search_list_item.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-ldpi_green.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-ldpi/green.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_lock_icon_green.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/lock_icon_green.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_green.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/green.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_speech_bubble_green.9.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/speech_bubble_green.9.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-hdpi_key_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-hdpi/key_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/xml_pref_data_sync.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/xml/pref_data_sync.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_ignored_user_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/ignored_user_icon.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable_send_button.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable/send_button.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_orange.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/orange.png"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable_custom_button_selector.xml.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable/custom_button_selector.xml"
+    },
+    {
+        "merged": "/Users/krishna/AndroidStudioProjects/Source/app/build/intermediates/res/merged/debug/drawable-mdpi_msg_icon.png.flat",
+        "source": "/Users/krishna/AndroidStudioProjects/Source/app/src/main/res/drawable-mdpi/msg_icon.png"
+    }
+]

@@ -1,0 +1,77 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/Source.iml
+* .idea/codeStyles/
+* .idea/codeStyles/Project.xml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/workspace.xml
+* Android_Final_Proj.apk
+* alert_icon-web.png
+* hosted_icon-web.png
+* ic_launcher-web.png
+* ignored_user_icon-web.png
+* key_icon-web.png
+* lock_icon-web.png
+* lock_icon_green-web.png
+* lock_icon_red-web.png
+* msg_icon-web.png
+* notification_icon-web.png
+* plug_icon-web.png
+* private_chat_icon-web.png
+* proguard-project.txt
+* public_chat_icon-web.png
+* settings_icon-web.png
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/com/example/android_final_proj/.idea/android_final_proj.iml => app/src/main/resources/com/example/android_final_proj/.idea/android_final_proj.iml
+* src/com/example/android_final_proj/.idea/compiler.xml => app/src/main/resources/com/example/android_final_proj/.idea/compiler.xml
+* src/com/example/android_final_proj/.idea/copyright/profiles_settings.xml => app/src/main/resources/com/example/android_final_proj/.idea/copyright/profiles_settings.xml
+* src/com/example/android_final_proj/.idea/misc.xml => app/src/main/resources/com/example/android_final_proj/.idea/misc.xml
+* src/com/example/android_final_proj/.idea/modules.xml => app/src/main/resources/com/example/android_final_proj/.idea/modules.xml
+* src/com/example/android_final_proj/.idea/workspace.xml => app/src/main/resources/com/example/android_final_proj/.idea/workspace.xml
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

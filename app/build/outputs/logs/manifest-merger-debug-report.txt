@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:2:1-85:12
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:2:1-85:12
+	package
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:14:22-77
+uses-sdk
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:16:5-18:41
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:16:5-18:41
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:16:5-18:41
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:16:5-18:41
+INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:16:5-18:41
+	android:targetSdkVersion
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:18:9-38
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:17:9-35
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:20:5-83:19
+	android:label
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android_final_proj.MainScreenActivity
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:27:13-45
+	android:configChanges
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:26:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.example.android_final_proj.ChatSearchScreenFrag
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:35:9-39:20
+	android:label
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:37:13-75
+	android:configChanges
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:36:13-79
+activity#com.example.android_final_proj.ChatHistoryScreenFrag
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:40:9-44:20
+	android:label
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:42:13-76
+	android:configChanges
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:43:13-59
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:41:13-80
+activity#com.example.android_final_proj.QuickPrefsActivity
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:45:9-57:20
+	android:parentActivityName
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:49:13-91
+	android:label
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:47:13-45
+	android:configChanges
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:48:13-59
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:46:13-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:52:13-54:85
+	android:value
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:54:17-82
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:53:17-63
+service#com.example.android_final_proj.LocalService
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:59:9-60:19
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:59:18-76
+activity#com.example.android_final_proj.ChatActivity
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:61:9-71:20
+	android:parentActivityName
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:65:13-91
+	android:label
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:63:13-56
+	android:configChanges
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:64:13-59
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:62:13-71
+activity#com.example.android_final_proj.HistoryActivity
+ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:72:9-82:20
+	android:parentActivityName
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:76:13-91
+	android:label
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:74:13-59
+	android:configChanges
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:75:13-59
+	android:name
+		ADDED from /Users/krishna/AndroidStudioProjects/Source/app/src/main/AndroidManifest.xml:73:13-74
