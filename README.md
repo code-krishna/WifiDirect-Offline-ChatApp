@@ -52,33 +52,33 @@ Make sure you have the necessary Android SDK and build tools installed. Sync the
 4. **Run the App**:
 Connect an Android device or start an emulator. The app requires Wi-Fi Direct to work, so use a physical device to test. Click on the “Run” button in Android Studio to launch the app.
 
-How It Works
-	1.	Wi-Fi Direct: The app leverages Wi-Fi Direct to establish a connection between devices. Wi-Fi Direct is a feature that allows devices to connect directly to each other without the need for a traditional router or access point.
-	2.	Socket Programming: Once devices are connected via Wi-Fi Direct, the app uses socket programming to establish a communication channel. This allows messages to be sent and received in real-time between connected devices.
-	3.	Message Exchange: Once the connection is established, users can send messages to each other instantly. The chat interface is simple, with a text input box and a message display area.
+## How It Works
 
-Dependencies
-	•	Android SDK (minimum version: API 21)
-	•	Socket.IO for real-time messaging (optional, if used for socket communication)
-	•	Wi-Fi Direct enabled devices
+	1. Wi-Fi Direct: The app leverages Wi-Fi Direct to establish a connection between devices. Wi-Fi Direct is a feature that allows devices to connect directly to each other without the need for a traditional router or access point.
+	2. Socket Programming: Once devices are connected via Wi-Fi Direct, the app uses socket programming to establish a communication channel. This allows messages to be sent and received in real-time between connected devices.
+	3. Message Exchange: Once the connection is established, users can send messages to each other instantly. The chat interface is simple, with a text input box and a message display area.
+
+## Dependencies
+
+	• Android SDK (minimum version: API 21)
+	• Socket.IO for real-time messaging (optional, if used for socket communication)
+	• Wi-Fi Direct enabled devices
 
 You can find the full list of dependencies in the build.gradle files.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you’d like to contribute to the development of the Offline Chatting Application, follow these steps:
-	1.	Fork the repository.
-	2.	Clone your fork locally.
-	3.	Create a new branch for your changes.
-	4.	Make your changes and commit them.
-	5.	Push your changes to your fork.
-	6.	Submit a pull request with a description of your changes.
+```	
+1. Fork the repository.
+2. Clone your fork locally.
+3. Create a new branch for your changes.
+4. Make your changes and commit them.
+5. Push your changes to your fork.
+6. Submit a pull request with a description of your changes.
+```
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgements
-	•	Wi-Fi Direct for making peer-to-peer communication possible.
-	•	Open source libraries used in this project.
+## Acknowledgements
+	• Wi-Fi Direct for making peer-to-peer communication possible.
+	• Open source libraries used in this project.
 
