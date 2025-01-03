@@ -15,21 +15,21 @@
 The project is organized as follows:
 ```
 WifiDirect-Offline-ChatApp/
-├── app/                            # Main app module
+├── app/                            		# Main app module
 │   ├── src/
 │   │   ├── main/
-│   │   │   ├── java/               # Java source code
+│   │   │   ├── java/               		# Java source code
 │   │   │   │   └── com/
 │   │   │   │       └── example/
                         └── android_final_proj/ # Package for all app classes
-│   │   │   ├── res/                # Resources
-│   │   │   │   ├── layout/         # XML layout files
-│   │   │   │   ├── drawable/       # Image resources
-│   │   │   │   └── values/         # Styles, colors, strings, etc.
-│   │   │   └── AndroidManifest.xml # App configuration and permissions
-├── build.gradle                    # Project-wide build configuration
-├── settings.gradle                 # Gradle settings
-└── gradle/                          # Gradle wrapper files
+│   │   │   ├── res/                		# Resources
+│   │   │   │   ├── layout/         		# XML layout files
+│   │   │   │   ├── drawable/       		# Image resources
+│   │   │   │   └── values/         		# Styles, colors, strings, etc.
+│   │   │   └── AndroidManifest.xml 		# App configuration and permissions
+├── build.gradle                    		# Project-wide build configuration
+├── settings.gradle                 		# Gradle settings
+└── gradle/                         		# Gradle wrapper files
 ```
 ## Prerequisites
 
